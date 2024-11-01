@@ -14,6 +14,7 @@
 - **Cloud-Native:** Applications designed specifically to leverage the benefits of cloud computing architecture.
 - **Open Source:** Software for which the original source code is made freely available and may be redistributed and modified.
 - **Open Standard:** Publicly available specifications that ensure interoperability between different systems and software.
+- **Hypervisor:** Software that creates and runs virtual machines (VMs).
 
 **Differences:**
 - **Cloud Technology vs. Traditional Technology:**
