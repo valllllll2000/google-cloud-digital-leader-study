@@ -127,6 +127,7 @@
 
 **Google Cloud Data Management Options:**
 - **Cloud Storage:** Object storage for unstructured data, designed for high availability.
+  - Enabling "Requester Pays" on a Cloud Storage bucket shifts the cost of data access to the requester, allowing public access while reducing organization's expenses.
 - **Cloud Spanner:** Globally distributed relational database service for mission-critical applications.
 - **Cloud SQL:** Managed relational database service for SQL databases like MySQL and PostgreSQL.
 - **Cloud Bigtable:** NoSQL database for large-scale analytical and operational workloads.
