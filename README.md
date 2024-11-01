@@ -164,6 +164,7 @@
 
 **Modern Data Pipelines:**
 - Tools like **Pub/Sub** (for messaging) and **Dataflow** (for stream and batch data processing) facilitate efficient data movement and processing.
+- Dataflow is a fully managed streaming data processing service that can handle large amounts of data from continuous sources. It is serverless, so you do not need to provision infrastructure or create server cluster
 
 ---
 
