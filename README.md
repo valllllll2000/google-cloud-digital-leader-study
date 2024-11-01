@@ -449,7 +449,7 @@
 ### Google Cloud Customer Care
 
 - **Support Plans:**
-  - Google Cloud offers various support plans (Basic, Role-Based, Silver, Gold, and Platinum) to cater to different organizational needs, providing access to technical support, account management, and training resources.
+  - Google Cloud offers various support plans (Basic, Standar, Enhanced, and Premium) to cater to different organizational needs, providing access to technical support, account management, and training resources.
 
 - **Resources and Documentation:**
   - Comprehensive documentation, tutorials, and community forums to help organizations troubleshoot issues and optimize their cloud environments.
