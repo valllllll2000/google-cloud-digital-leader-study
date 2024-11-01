@@ -242,7 +242,7 @@
 - **Replatform:** Make minimal changes to optimize for the cloud.
 - **Refactor:** Redesign an application to take full advantage of cloud capabilities.
 - **Reimagine:** Redefine and innovate new applications or services.
-
+- **Google Cloud Directory Sync**: to provision Google accounts and groups to access Google Cloud resources based on on-premises LDAP database, you can set up Google Cloud Directory Sync.
 ---
 
 ### 4.2 Computing in the Cloud
