@@ -15,6 +15,7 @@
 - **Open Source:** Software for which the original source code is made freely available and may be redistributed and modified.
 - **Open Standard:** Publicly available specifications that ensure interoperability between different systems and software.
 - **Hypervisor:** Software that creates and runs virtual machines (VMs).
+- **Lightweight Directory Access Protocol (LDAP)** is an application protocol for accessing and managing directory services over a network, commonly used for user authentication, authorization, and storing hierarchical information about users and resources.
 
 **Differences:**
 - **Cloud Technology vs. Traditional Technology:**
